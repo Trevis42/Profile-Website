@@ -16,17 +16,18 @@ h3 {
 .titleBar {
   margin: 20px auto;
   size: 100%;
-  color: gray;
   text-align: center;
+  border: 5px solid rgb(0, 0, 0);
 }
-.tileBar p {
-  margin-left: 5px;
-  margin-right: 5px;
-  size: 50%;
+.titleBar p {
+  font-size: 40px;
+  font-weight: bold;
+  color: gray;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  line-height: 50px;
 }
 
-.tileBar a {
-  margin-left: 5px;
-  margin-right: 5px;
-  size: 50%;
-}
+/* .titleBar p,
+.titleBar a {
+} */
