@@ -20,13 +20,13 @@ h3 {
 	line-height: 1.2rem;
 }
 
-.titleBar {
+#titleBar {
 	margin: 20px auto;
 	size: 100%;
 	text-align: center;
 	border: 5px solid rgb(0, 0, 0);
 }
-.titleBar p {
+#titleBar p {
 	font-size: 40px;
 	font-weight: bold;
 	color: gray;
